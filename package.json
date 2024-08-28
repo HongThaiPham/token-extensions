@@ -11,6 +11,7 @@
   "author": "Leo Pham <hongthaipro@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "@solana/spl-token": "^0.4.8",
     "@solana/web3.js": "^1.95.3",
     "bn.js": "^5.2.1",
     "bs58": "^6.0.0",
